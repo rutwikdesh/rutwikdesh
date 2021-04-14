@@ -1,6 +1,6 @@
 # Hola, I'm Rutwik Deshmukh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100px">
 
 - 🔭 I’m currently working on Real Time Network Intrusion Detection System Using Artificial Neural Network In Data Mining
 - 🌱 I’m currently learning Neural Networks
