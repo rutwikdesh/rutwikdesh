@@ -21,7 +21,7 @@ You can reach me at the email in my github profile. Follow my socials!
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Rutwik on Twitter" title="Follow Rutwik on Twitter"/>](https://twitter.com/rutwik_deshmukh)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rutwik on Instagram" title="Follow Rutwik on Instagram"/>](https://instagram.com/rutwikdesh)
 
-# I'm listening to
+## I'm listening to
 
 [![Spotify](https://spotify-now-playing-ten-delta.vercel.app/api/spotify)](https://open.spotify.com/user/31z353cugxqp5orqjvo46vxx7zne)
 
