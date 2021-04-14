@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Neural Networks
 - 👯 I’m looking to collaborate on YouTube
 - 📫 How to reach me: Twitter - @rutwikdesh
-- ⚡ Fun fact: Music is Music is the moonlight in the gloomy night of life
+- ⚡ Fun fact: Music is the moonlight in the gloomy night of life
 
 ## ⚡ Technologies
 Talk to me about
