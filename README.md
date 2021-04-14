@@ -1,7 +1,5 @@
 # Hola, I'm Rutwik Deshmukh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100px">
-
 - 🔭 I’m currently working on Real Time Network Intrusion Detection System Using Artificial Neural Network In Data Mining
 - 🌱 I’m currently learning Neural Networks
 - 👯 I’m looking to collaborate on YouTube
@@ -23,3 +21,6 @@ Talk to me about
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rutwik on Instagram" title="Follow Rutwik on Instagram"/>](https://instagram.com/rutwikdesh)
 
 <img src="https://github-readme-stats.vercel.app/api?username=rutwikdesh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
