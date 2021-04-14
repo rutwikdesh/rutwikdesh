@@ -22,7 +22,7 @@ You can reach me at the email in my github profile. Follow my socials!
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rutwik on Instagram" title="Follow Rutwik on Instagram"/>](https://instagram.com/rutwikdesh)
 
 
-## :octocat: My Github stats
+## 📊 My Github stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=rutwikdesh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
@@ -31,5 +31,5 @@ You can reach me at the email in my github profile. Follow my socials!
 
 [![Spotify](https://spotify-now-playing-ten-delta.vercel.app/api/spotify)](https://open.spotify.com/user/31z353cugxqp5orqjvo46vxx7zne)
 
-
+## Coding is ❤️
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
