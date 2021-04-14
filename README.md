@@ -31,5 +31,4 @@ You can reach me at my email -> mailto:rutwikdesh28@gmail.com. Follow my socials
 
 [![Spotify](https://spotify-now-playing-ten-delta.vercel.app/api/spotify)](https://open.spotify.com/user/31z353cugxqp5orqjvo46vxx7zne)
 
-## Coding is ❤️
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+Coding is ❤️
