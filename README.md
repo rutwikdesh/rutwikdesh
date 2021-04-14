@@ -1,6 +1,6 @@
-# Hola, I'm Rutwik Deshmukh 👋
+# Hola, I'm Rutwik Deshmukh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🔭 I’m currently working on Real Time Network Intrusion Detection System Using Artificial Neural Network In Data Mining
 - 🌱 I’m currently learning Neural Networks
@@ -10,6 +10,13 @@
 
 ## 📫 How to reach me:
 You can reach me at the email in my github profile. Follow my socials!
+
+## ⚡ Technologies
+Talk to me about
+- Mobile application development using **Flutter,React Native**
+- Web development-**HTML/CSS,Javascript,Django**
+- Backend development-**Firebase,Mysql**
+- Data Analytics -**Python,R**
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Rutwik on LinkedIn" title="Follow Rutwik on LinkedIn"/>](https://linkedin.com/in/rutwik-deshmukh)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Rutwik on Twitter" title="Follow Rutwik on Twitter"/>](https://twitter.com/rutwik_deshmukh)
