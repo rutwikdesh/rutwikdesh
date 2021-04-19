@@ -18,8 +18,8 @@ Talk to me about
 You can reach me at my email -> mailto:rutwikdesh28@gmail.com. Follow my socials!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Rutwik on LinkedIn" title="Follow Rutwik on LinkedIn"/>](https://linkedin.com/in/rutwik-deshmukh)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Rutwik on Twitter" title="Follow Rutwik on Twitter"/>](https://twitter.com/rutwik_deshmukh)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rutwik on Instagram" title="Follow Rutwik on Instagram"/>](https://instagram.com/rutwikdesh)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Rutwik on Twitter" title="Follow Rutwik on Twitter"/>](https://twitter.com/rutwikdesh)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rutwik on Instagram" title="Follow Rutwik on Instagram"/>](https://instagram.com/rutwik_deshmukh)
 
 
 ## 📊 My Github stats
