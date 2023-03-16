@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on YouTube
 - 📫 How to reach me: Twitter - @rutwikdesh
 - ⚡ Fun fact: Music is the moonlight in the gloomy night of life
-- 💼 Portfolio: [<p>Click here to access my portfolio<p>](https://rutwikdesh.github.io/portfolio.github.io/)
+- 💼 Portfolio: [<span>Click here to access my portfolio<span>](https://rutwikdesh.github.io/portfolio.github.io/)
 
 ## ⚡ Technologies
 Talk to me about
