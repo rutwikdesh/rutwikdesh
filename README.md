@@ -10,7 +10,7 @@
 ## ⚡ Technologies
 Talk to me about
 - Mobile application development using **Java, XML**
-- Web development-**HTML/CSS,Javascript,Django**
+- Web development-**HTML/CSS, Javascript,React, Node.js**
 - Backend development-**Firebase,Mysql**
 - Data Science Analytics -**Python**
 
