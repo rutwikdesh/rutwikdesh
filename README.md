@@ -9,9 +9,9 @@
 
 ## ⚡ Technologies
 Talk to me about
-- Mobile application development using **Java, XML**
-- Web development-**React, Node.js, Angular, Tailwind CSS, Material UI, Next.js**
-- Backend - **Java, Python**
+- Mobile application development using **React Native, Java, XML**
+- Web development-**Next.js, React, Node.js, Angular, Tailwind CSS, Material UI**
+- Backend - **Node.js, Nest.js, Java, Python**
 - Databases-**MongoDB, Mysql**
 - Data Science Analytics -**Python**
 
